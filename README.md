@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente me encuentro aprendiendo **Fabric**
 
-- 👯 He trabajado con streamers como **Chiletian, Zestian and more...**
+- 👯 He colaborado con streamers como **Chiletian, Zestian, Churrox y demás...**
 
 - 🤝 También soy CEO de un pequeño proyecto llamado [@KanecoStudio](https://twitter.com/KanecoStudio)
 
