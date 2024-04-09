@@ -1,13 +1,13 @@
 <h1 align="center">Buenas 👋, Yo soy Reggiee</h1>
 <h3 align="center">Maestro del código, creando mundos virtuales en Minecraft con destreza.</h3>
 
-- 🔭 Soy partner de [@MinemuNetwork](minemu.es)
+- 🔭 Soy partner de [@HolyHosting](holy.gg)
 
 - 🌱 Actualmente me encuentro aprendiendo **Fabric**
 
-- 👯 He colaborado con streamers como **Chiletian, Zestian, Churrox y demás...**
+- 👯 He colaborado con streamers como **Chiletian, Zestian, Soarinng, Diffrent y demás...**
 
-- 🤝 También soy CEO de un pequeño proyecto llamado [@KanecoStudio](https://twitter.com/KanecoStudio)
+- 🤝 También soy CEO de un pequeño proyecto llamado [@LuxeriaStudios](https://twitter.com/LuxeriaStudios)
 
 - 📫 Para contactar conmigo: **contactoreggiee@gmail.com**
 
