@@ -1,7 +1,7 @@
 <h1 align="center">Buenas 👋, Yo soy Reggiee</h1>
 <h3 align="center">Maestro del código, creando mundos virtuales en Minecraft con destreza.</h3>
 
-- 🔭 Soy partner de [@HolyHosting](holy.gg)
+- 🔭 Soy partner de [@HolyHosting](https://holy.gg)
 
 - 🌱 Actualmente me encuentro aprendiendo **Fabric**
 
