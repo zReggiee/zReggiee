@@ -2,12 +2,8 @@
 <h3 align="center">Maestro del código, creando mundos virtuales en Minecraft con destreza.</h3>
 
 - 🔭 Soy partner de [@HolyHosting](https://holy.gg)
-
 - 🌱 Actualmente me encuentro aprendiendo **Fabric**
-
 - 👯 He colaborado con streamers como **PopGeneration, Zestian, Soarinng, Diffrent y demás...**
-
-- 🤝 También soy CEO de un pequeño proyecto llamado [@LuxeriaStudios](https://twitter.com/LuxeriaStudios)
 
 - 📫 Para contactar conmigo: **contactoreggiee@gmail.com**
 
