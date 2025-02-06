@@ -3,7 +3,7 @@
 
 - 🔭 Soy partner de [@HolyHosting](https://holy.gg)
 - 🌱 Actualmente me encuentro aprendiendo **Fabric**
-- 👯 He colaborado con streamers como **PopGeneration, Zestian, Soarinng, Diffrent y demás...**
+- 👯 He colaborado con streamers como **Zestian, Soarinng y demás...**
 
 - 📫 Para contactar conmigo: **contactoreggiee@gmail.com**
 
