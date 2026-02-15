@@ -27,7 +27,6 @@
 ### 🤝 Algunos creadores con los que he trabajado
 
 <p align="center">
-  <img src="https://i.imgur.com/X3ghonP.png" width="80" title="Darck97"/>
   <img src="https://i.imgur.com/zMcuZEs.png" width="80" title="Willyrex"/>
   <img src="https://i.imgur.com/pW1VU9d.jpeg" width="80" title="Gonko"/>
   <img src="https://i.imgur.com/s4BXSPz.png" width="80" title="Shadoune"/>
