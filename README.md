@@ -14,7 +14,7 @@
 ```
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=038004&center=true&vCenter=true&random=true&width=435&lines=Minecraft+Fabric+Modder;OpenSource+Enjoyer;Java%2FFull+Stack+Dev;Open+commisions)](https://git.io/typing-svg)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1081542020465692702?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probablemente+buildeando+algo...)](https://discord.com/users/1081542020465692702)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1177671134024568853?theme=dark)](https://discord.com/users/1177671134024568853)
 
 </div>
 
