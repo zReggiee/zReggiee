@@ -8,7 +8,7 @@
 
 * <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="16"/> Soy desarrollador de mods y plugins de Minecraft
 * 🌱 Tengo 6 o 7 años uwu
-* 🌐 Más información sobre mí en [Portafolio]()
+* 🌐 Más información sobre mí en [Portafolio](https://master.core-mc.dev/)
 
 <hr/>
 
