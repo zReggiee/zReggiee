@@ -1,7 +1,7 @@
-<h3 align="center">¡Hola! Me llamo Adrián</h3>
+<h3 align="center">¡Hola! Me llamo Daniel</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=TheMasterRoshiii&color=green"/> 
+    <img src="https://komarev.com/ghpvc/?username=zReggiee&color=red"/> 
 </p>
 
 ## 📖 Sobre mí
@@ -36,14 +36,12 @@
 
 ## 💭 Información extra 💭
 <p align="center">
-    <a href="https://discord.com/users/1017542503488028733">
-        <img src="https://lanyard.cnrad.dev/api/1017542503488028733?theme=dark&bg=000000&hideDiscrim=true"/>
-    </a>
+<a href="https://discord.com/users/1177671134024568853"><img src="https://lanyard.cnrad.dev/api/1177671134024568853?idleMessage=soy%20vago%20uwu&borderRadius=1&bg=000000&theme=dark" /></a>
 <h2 align="center">📊 Mis Estadísticas</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-lyart-one-57.vercel.app/api?username=TheMasterRoshiii&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=7F52FF&title_color=7F52FF&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-lyart-one-57.vercel.app/api?username=zReggiee&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=7F52FF&title_color=7F52FF&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats-lyart-one-57.vercel.app/api/top-langs/?username=TheMasterRoshiii&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=7F52FF&hide_border=true" alt="Top Lenguajes" />
+  <img src="https://github-readme-stats-lyart-one-57.vercel.app/api/top-langs/?username=zReggiee&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=7F52FF&hide_border=true" alt="Top Lenguajes" />
 </p>
