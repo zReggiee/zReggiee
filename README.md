@@ -36,7 +36,7 @@
 
 ## 💭 Información extra 💭
 <p align="center">
-<a href="https://discord.com/users/1177671134024568853"><img src="https://lanyard.cnrad.dev/api/1177671134024568853?idleMessage=soy%20vago%20uwu&borderRadius=1&bg=000000&theme=dark" /></a>
+<a href="https://discord.com/users/1177671134024568853"><img src="https://lanyard.cnrad.dev/api/1177671134024568853?idleMessage=No%20ser%20perfecto%2C%20tener%20errores%20y%20fallar%20es%20lo%20m%C3%A1s%20humano%20y%20bonito%20que%20existe&theme=dark&bg=000000" /></a>
 <h2 align="center">📊 Mis Estadísticas</h2>
 
 <p align="center">
